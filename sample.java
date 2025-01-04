@@ -1,7 +1,5 @@
-public class sample
+public class simple
 {
-public static void main(string args[])
-public static void main(String args[])
-{
+public static void main(String [] args)
 	System.out.println("vishwakkolipaka");
-}}
+}
